@@ -2,8 +2,8 @@
 
 ### MY DIARY
 
-# DAY1 10/15
-## DAY2 10/16
+### DAY1 10/15
+### DAY2 10/16
 ### DAY3 10/17
 
 - Bulleted
