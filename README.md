@@ -1,6 +1,4 @@
-## 
-
-### MY DIARY
+## MY DIARY <color : blue>
 
 ### DAY1 10/15
 ### DAY2 10/16
